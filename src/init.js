@@ -42,7 +42,7 @@ var buildTieFighter = function(){
         randomInRange(25),
         32,
         50, bodyHeight, bodyWidth,
-        "../img/tiefighter.png"
+        "./img/tiefighter.png"
       );
     window.enemies.push(tiefighter);
     body.append(tiefighter.$node);

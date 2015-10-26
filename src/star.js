@@ -10,13 +10,8 @@ var Star = function(x, y, z, timeBetweenSteps, docHeight, docWidth) {
   this.docHeight = docHeight;
   this.docWidth = docWidth;
 
-  this.timer;
-
   this.destroyed = false;
-
-  //register step
   this.step();
-  
   this.setPosition();
 
 };
@@ -25,7 +20,7 @@ Star.prototype.step = function() {
   if (this.$node.data('kill') === 'killed'){
     this.kill();
   } else {
-    this.timer = setTimeout(this.step.bind(this), this.timeBetweenSteps);
+    setTimeout(this.step.bind(this), this.timeBetweenSteps);
   }
    
 };
