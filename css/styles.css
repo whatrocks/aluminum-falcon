@@ -7,8 +7,8 @@ body{
   background-color:black;
   font-size: 18px;
   overflow: hidden;
-  background: url("../img/bg.jpg");
-  background-size: cover;
+  /*background: url("../img/bg.jpg");*/
+  /*background-size: cover;*/
   font-family: 'Press Start 2P', cursive;
 }
 
