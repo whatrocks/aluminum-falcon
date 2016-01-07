@@ -1,7 +1,7 @@
 # subclasswars.js
 Millenium Falcon vs. TIE Fighters game in JS!
 
-<img src="./img/sublclasswars.gif"/>
+<img src="./img/subclasswars.gif"/>
 
 ## Overview
 SubclassWars.js is a tiny little Star Wars themed game created as an experiment with Javascript subclasses. Read more about the process / visualization here: http://www.whatrocks.org/subclass-wars.html
