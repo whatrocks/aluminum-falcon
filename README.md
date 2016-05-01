@@ -1,10 +1,8 @@
-# subclasswars.js
+# Aluminum Falcon
 Millenium Falcon vs. TIE Fighters game in JS!
 
-<img src="./img/subclasswars.gif"/>
-
 ## Overview
-SubclassWars.js is a tiny little Star Wars themed game created as an experiment with Javascript subclasses. Read more about the process / visualization here: http://www.whatrocks.org/subclass-wars.html
+Aluminum Falcon is a tiny little Star Wars themed game created as an experiment with 'subclassing' in JavaScript.
 
 ## Resources
 * Music: https://www.youtube.com/watch?v=1Mqc-z2HJW0
