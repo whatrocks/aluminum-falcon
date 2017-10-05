@@ -1,7 +1,7 @@
 # Aluminum Falcon
 Millenium Falcon vs. TIE Fighters game in JS!
 
-<img src="./img/sublclasswars.gif"/>
+<img src="img/subclasswars.gif"/>
 
 ## Overview
 Aluminum Falcon is a tiny little Star Wars themed game created as an experiment with 'subclassing' in JavaScript.
